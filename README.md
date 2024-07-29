@@ -9,3 +9,6 @@ VSCodeQuickstart - Project [Quick Start: Visual Studio Code for Salesforce Devel
 ![DX-Photoroom](https://github.com/user-attachments/assets/cca3b23a-f9bb-4d34-969a-3a80cba47df7)
 
 dreamhouse-lwc - Project [Quick Start: Salesforce DX](https://trailhead.salesforce.com/es/content/learn/projects/quick-start-salesforce-dx)
+
+## Aura Components
+geolocation
