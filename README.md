@@ -21,3 +21,7 @@ geolocation - [App Development with Salesforce DX](https://trailhead.salesforce.
 ![Get started](https://github.com/user-attachments/assets/282d3cfd-6f39-4aea-a83a-4df60800a366)
 
 Dreamhouse - [Get Started with Salesforce Development](https://trailhead.salesforce.com/content/learn/projects/get-started-with-salesforce-development)
+
+![setupLWC](https://github.com/user-attachments/assets/3bacf34d-97c6-4ce7-99df-abec7b2e0b49)
+
+trailhead - [Set Up Your Lightning Web Components Developer Tools](https://trailhead.salesforce.com/es/content/learn/projects/set-up-your-lightning-web-components-developer-tools)
