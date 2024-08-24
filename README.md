@@ -16,6 +16,10 @@ dreamhouse-lwc - [Quick Start: Salesforce DX](https://trailhead.salesforce.com/e
 
 geolocation - [App Development with Salesforce DX](https://trailhead.salesforce.com/es/content/learn/modules/sfdx_app_dev)
 
+![quick_start_unlocked_packages](https://github.com/user-attachments/assets/54fe6323-755d-48f1-aa61-c25407871293)
+
+GIFter - Quick Start: Unlocked Packages
+
 ## Lightning Web Components
 
 ![Get started](https://github.com/user-attachments/assets/282d3cfd-6f39-4aea-a83a-4df60800a366)
@@ -25,3 +29,6 @@ Dreamhouse - [Get Started with Salesforce Development](https://trailhead.salesfo
 ![setupLWC](https://github.com/user-attachments/assets/3bacf34d-97c6-4ce7-99df-abec7b2e0b49)
 
 trailhead - [Set Up Your Lightning Web Components Developer Tools](https://trailhead.salesforce.com/es/content/learn/projects/set-up-your-lightning-web-components-developer-tools)
+
+
+
